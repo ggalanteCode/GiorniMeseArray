@@ -18,7 +18,7 @@ public class Main {
 		s.nextLine();
 		
 		System.out.println("Il numero di giorni di " + mesiAnno[numeroMese - 1] + " è " 
-							+ giorniDelMese[numeroMese]);
+							+ giorniDelMese[numeroMese - 1]);
 		
 	}
 
